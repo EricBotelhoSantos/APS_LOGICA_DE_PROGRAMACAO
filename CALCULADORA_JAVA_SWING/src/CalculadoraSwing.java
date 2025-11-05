@@ -8,8 +8,6 @@ import java.awt.event.KeyListener;
 import java.util.Locale;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Classe principal da Calculadora.
